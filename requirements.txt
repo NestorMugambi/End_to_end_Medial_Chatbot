@@ -1,0 +1,11 @@
+ctransformers==0.2.27
+sentence_transformers==2.7.0
+langchain==0.1.20
+flask==3.0.3
+pinecone-client==3.2.2
+langchain-pinecone==0.1.1
+pypdf==4.2.0
+langchain-cohere==0.1.4
+langchain-google-genai==1.0.4
+
+-e .
